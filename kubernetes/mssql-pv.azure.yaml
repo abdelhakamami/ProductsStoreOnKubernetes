@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: mssql-pvc
+  name: mssqlabdelhak0000-pvc
 spec:
   storageClassName: default
   accessModes:
